@@ -37,6 +37,10 @@ you're stuck, here's me walking you through how this works._
 
 <p><a href="https://www.youtube.com/watch?v=Jc0HIoTLxe4">Solving the First HTML Lab</a></p>
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-first-html-tag-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-first-html-tag-lab/pullss). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 * [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
